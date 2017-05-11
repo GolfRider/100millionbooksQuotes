@@ -43,3 +43,6 @@ There is nothing uniquely evil in these destroyers or even in this moment. The d
 
 ### [The Power Broker] - Robert A. Caro, 1974
 Hospitality has always been a potent political weapon. Moses used it like a master. Coupled with his over-powering personality, a buffet often did as much for a proposal as a bribe. "Christ, you'd be standing there eating the guy's food and drinking his liquor and get-ting ready to go for a ride on his boat, and he'd come up to you and take both your hands in his or put his arm around your shoulders and look into your eye and begin pouring out the arguments in that charming way of his and making you feel like there was no one in the whole world he'd rather be talking to—how could you turn the guy down?"
+
+### [Great Leaders: Alfred Sloan] - New Word City, 2013
+Perhaps most important, he respected facts, welcomed disagreement, and refused to make decisions until he was sure all the alternatives had been explored. Famously, he concluded one senior executive meeting by saying, 'Gentlemen, I take it we are all in complete agreement on the decision here." Around the table, all the heads nodded. "Then," Sloan said, I propose we postpone further discussion of this matter until the next meeting to give ourselves time to develop disagreement and perhaps gain some understanding of what the decision is all about."
