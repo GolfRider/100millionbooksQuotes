@@ -37,3 +37,6 @@ Zero is powerful because it is infinity's twin. They are equal and opposite, yin
 
 ### [The Complete Essays] - Montaigne, 1572
 We take other men’s knowledge and opinions upon trust; which is an idle and superficial learning. We must make them our own. We are just like a man who, needing fire, went to a neighbor’s house to fetch it, and finding a very good one there, sat down to warm himself without remembering to carry any back home. What good does it do us to have our belly full of meat if it is not digested, if it is not transformed into us, if it does not nourish and support us?
+
+### [Between the World and Me] - Ta-Nehisi Coates, 2015
+There is nothing uniquely evil in these destroyers or even in this moment. The destroyers are merely men enforcing the whims of our country, correctly interpreting its heritage and legacy. It is hard to face this. But all our phrasing—race relations, racial chasm, racial justice, racial profiling, white privilege, even white supremacy—serves to obscure that racism is a visceral experience, that it dislodges brains, blocks airways, rips muscle, extracts organs, cracks bones, breaks teeth. You must never look away from this. You must always remember that the sociology, the history, the economics, the graphs, the charts, the regressions all land, with great violence, upon the body.
