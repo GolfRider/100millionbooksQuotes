@@ -52,26 +52,29 @@ Perhaps most important, he respected facts, welcomed disagreement, and refused t
  -  https://www.pinterest.com/mmellinger66/quotes/
  -  https://www.pinterest.com/mmellinger66/aphorisms
  - "Everybody has a plan until they get punched in the mouth. - Mike Tyson"
-   "Look, I made a hat...where there never was a hat. - Finishing the hat, Sondheim"
-   "Just fucking figure it out."
-   "The universe is not here to please you. - Charles Murtaugh"
-   "Your life is your life. The gods await to delight in you. - Bukowski"
-   "Join the force and get a pension. - Salesman"
-   "Beware of things that are fun to argue. - Eliezer Yudkowsky"
-   "However beautiful the strategy, you should occasionally look at the result. - Winston Churchill"
-   "Truth is much too complicated to allow anything but approximations. - John Von Neumann"
-   "Writing program code is a good way of debugging your thinking. - Bill Venables"
-   "Don't tell me what you value. Show me your budget, and I'll tell you what you value. - Joe Biden quoting his father"
-   "Most haystacks do not even have a needle. - Lorenzo"
-   "Experiment and theory often show remarkable agreement when performed in the same laboratory. - Daniel Bershader"
-   "The important work of moving the world forward does not wait to be done by perfect men. - George Eliot"
-   "It is astonishing what foolish things a man thinking alone can come temporarily to believe. - Keynes"
-   "The purpose of computing is Insight, not numbers. - Richard Hamming"
-   "Work on stuff that matters. - Tim O'Reilly"
-   "Sometimes magic is just someone spending more time on something than anyone else might reasonably expect. - Teller"
-   "You have to say something. It can't all be technique. - Woody Allen (on great actors)"
-   ;; Paraphrased from a HN comment
-   "Perfectionism is a failure to optimize across a complex goal space, settling, instead, on ignoring the difficult prioritisation problem in favor of over-optimizing a limited set of tangible and easily-defined goals over longer-run priorities" 
+ - "Look, I made a hat...where there never was a hat. - Finishing the hat, Sondheim"
+ - "Just fucking figure it out."
+ - "The universe is not here to please you. - Charles Murtaugh"
+ - "Your life is your life. The gods await to delight in you. - Bukowski"
+ - "Join the force and get a pension. - Salesman"
+ - "Beware of things that are fun to argue. - Eliezer Yudkowsky"
+ - "However beautiful the strategy, you should occasionally look at the result. - Winston Churchill"
+ - "Truth is much too complicated to allow anything but approximations. - John Von Neumann"
+ - "Writing program code is a good way of debugging your thinking. - Bill Venables"
+ - "Don't tell me what you value. Show me your budget, and I'll tell you what you value. - Joe Biden quoting his father"
+ - "Most haystacks do not even have a needle. - Lorenzo"
+ - "Experiment and theory often show remarkable agreement when performed in the same laboratory. - Daniel Bershader"
+ - "The important work of moving the world forward does not wait to be done by perfect men. - George Eliot"
+ - "It is astonishing what foolish things a man thinking alone can come temporarily to believe. - Keynes"
+ - "The purpose of computing is Insight, not numbers. - Richard Hamming"
+ - "Work on stuff that matters. - Tim O'Reilly"
+ - "Sometimes magic is just someone spending more time on something than anyone else might reasonably expect. - Teller"
+ - "You have to say something. It can't all be technique. - Woody Allen (on great actors)"
+ - HN comment:
+ - "Perfectionism is a failure to optimize across a complex goal space, settling, instead, on ignoring the difficult  
+    prioritisation problem in favor of over-optimizing a limited set of tangible and easily-defined goals over 
+    longer-run priorities" 
+ 
    
 
 
