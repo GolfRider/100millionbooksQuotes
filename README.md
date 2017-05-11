@@ -1,6 +1,8 @@
 # 100millionbooksQuotes
 
-[Self-Reliance] - Ralph Waldo Emerson, 1841
+Credit : From this chrome browser plugin : 100millionbooks.org
+
+### [Self-Reliance] - Ralph Waldo Emerson, 1841
 
 To believe your own thought, to believe that what is true for you in your private heart is true for all men, — that is genius. 
 Speak your latent conviction, and it shall be the universal sense;
@@ -15,3 +17,7 @@ Great works of art have no more affecting lesson for us than this.
 They teach us to abide by our spontaneous impression with good-humored inflexibility then most when the whole cry of
 voices is on the other side. Else, to-morrow a stranger will say with masterly good sense precisely 
 what we have thought and felt all the time, and we shall be forced to take with shame our own opinion from another.
+
+
+### [Aldous Huxley, 1958] Brave New World Revisited
+The really hopeless victims of mental illness are to be found among those who appear to be most normal. "Many of them are normal because they are so well adjusted to our mode of existence, because their human voice has been silenced so early in their lives, that they do not even struggle or suffer or develop symptoms as the neurotic does." They are normal not in what may be called the absolute sense of the word; they are normal only in relation to a profoundly abnormal society. Their perfect adjustment to that abnormal society is a measure of their mental sickness. These millions of abnormally normal people, living without fuss in a society to which, if they were fully human beings, they ought not to be adjusted, still cherish "the illusion of individuality," but in fact they have been to a great extent de-individualized. Their conformity is developing into something like uniformity. But "uniformity and freedom are incompatible. Uniformity and mental health are incompatible too. . . . Man is not made to be an automaton, and if he becomes one, the basis for mental health is destroyed."
