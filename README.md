@@ -51,6 +51,7 @@ Perhaps most important, he respected facts, welcomed disagreement, and refused t
  -  https://www.pinterest.com/mmellinger66/life-is-short
  -  https://www.pinterest.com/mmellinger66/quotes/
  -  https://www.pinterest.com/mmellinger66/aphorisms
+ ```html
  - "Everybody has a plan until they get punched in the mouth. - Mike Tyson"
  - "Look, I made a hat...where there never was a hat. - Finishing the hat, Sondheim"
  - "Just fucking figure it out."
@@ -74,6 +75,7 @@ Perhaps most important, he respected facts, welcomed disagreement, and refused t
  - "Perfectionism is a failure to optimize across a complex goal space, settling, instead, on ignoring the difficult  
     prioritisation problem in favor of over-optimizing a limited set of tangible and easily-defined goals over 
     longer-run priorities" 
+  ```  
  
    
 
