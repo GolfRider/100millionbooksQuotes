@@ -1,7 +1,6 @@
 # 100millionbooksQuotes
 
-# Credit : From this chrome browser plugin : 100millionbooks.org
-
+Credit : From this chrome browser plugin : 100millionbooks.org
 Note: I will have to say it is crazy , they are so many interesting thoughts, pretty exhaustive...!! :-)
 
 ### [Self-Reliance] - Ralph Waldo Emerson, 1841
