@@ -76,6 +76,10 @@ Perhaps most important, he respected facts, welcomed disagreement, and refused t
     prioritisation problem in favor of over-optimizing a limited set of tangible and easily-defined goals over 
     longer-run priorities" 
   ```  
+  
+### [The Rich Employee] - James Altucher, 2015  
+When I worked at HBO I would try to get to work by about 6am every morning. Most people would come in around 10am. This was amazing for me. I had four hours of uninterrupted work time. In other words, by the time everyone else was just starting to arrive to work, I had already accomplished more than what most of them would do during the day.
+PS: These days he writes little different :-)
  
    
 
