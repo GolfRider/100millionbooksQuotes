@@ -101,3 +101,7 @@ Since human skills and natural resources are diversely and unequally distributed
 ### [Poke the Box] - Seth Godin, 2011
 I define anxiety as experiencing failure in advance ... and if you have anxiety about initiating a project, then of course you will associate risk with failure.
 
+### [The Egyptian] - Mika Waltari, 1945
+"Have your gods nothing to say about this? In other countries it is often they who determine what is right and what wrong." 
+"Right and wrong? Right is what we desire, and wrong is what our neighbors desire. That is a very simple principle that facilitates both life and statesmanship and that in my opinion differs little from the teaching of the gods in the plains. As I understand it, these gods hold that to be right which the wealthy desire and that wrong which the poor desire."
+
