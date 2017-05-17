@@ -105,3 +105,6 @@ I define anxiety as experiencing failure in advance ... and if you have anxiety 
 "Have your gods nothing to say about this? In other countries it is often they who determine what is right and what wrong." 
 "Right and wrong? Right is what we desire, and wrong is what our neighbors desire. That is a very simple principle that facilitates both life and statesmanship and that in my opinion differs little from the teaching of the gods in the plains. As I understand it, these gods hold that to be right which the wealthy desire and that wrong which the poor desire."
 
+### [Creativity, Inc] - Ed Catmull, Amy Wallace, 2009
+While experimentation is scary to many, I would argue that we should be far more terrified of the opposite approach. Being too risk-averse causes many companies to stop innovating and to reject new ideas, which is the ?rst step on the path to irrelevance. Probably more companies hit the skids for this reason than because they dared to push boundaries and take risks—and, yes, to fail.
+To be a truly creative company, you must start things that might fail.
