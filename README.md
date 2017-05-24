@@ -108,3 +108,7 @@ I define anxiety as experiencing failure in advance ... and if you have anxiety 
 ### [Creativity, Inc] - Ed Catmull, Amy Wallace, 2009
 While experimentation is scary to many, I would argue that we should be far more terrified of the opposite approach. Being too risk-averse causes many companies to stop innovating and to reject new ideas, which is the ?rst step on the path to irrelevance. Probably more companies hit the skids for this reason than because they dared to push boundaries and take risks—and, yes, to fail.
 To be a truly creative company, you must start things that might fail.
+
+
+### [Outliers] - Malcolm Gladwell, 2008
+The striking thing about Ericsson's study is that he and his colleagues couldn't find any "naturals," musicians who floated effortlessly to the top while practicing a fraction of the time their peers did. Nor could they find any "grinds," people who worked harder than everyone else, yet just didn't have what it takes to break the top ranks. Their research suggests that once a musician has enough ability to get into a top music school, the thing that distinguishes one performer from another is how hard he or she works. That's it. And what's more, the people at the very top don't work just harder or even much harder than everyone else. They work much, much harder.
