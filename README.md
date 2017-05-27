@@ -21,6 +21,11 @@ voices is on the other side. Else, to-morrow a stranger will say with masterly g
 what we have thought and felt all the time, and we shall be forced to take with shame our own opinion from another.
 
 
+### [Rework] - Jason, DHH , 2010
+In the end, workaholics don't actually accomplish more than nonworkaholics. They may claim to be perfectionists, but that just means they're wasting time fixating on inconsequential details instead of moving on to the next task. 
+
+Workaholics aren't heroes. They don't save the day, they just use it up. The real hero is already home because she figured out a faster way to get things done.
+
 ### [Brave New World Revisited] - Aldous Huxley, 1958
 The really hopeless victims of mental illness are to be found among those who appear to be most normal. "Many of them are normal because they are so well adjusted to our mode of existence, because their human voice has been silenced so early in their lives, that they do not even struggle or suffer or develop symptoms as the neurotic does." They are normal not in what may be called the absolute sense of the word; they are normal only in relation to a profoundly abnormal society. Their perfect adjustment to that abnormal society is a measure of their mental sickness. These millions of abnormally normal people, living without fuss in a society to which, if they were fully human beings, they ought not to be adjusted, still cherish "the illusion of individuality," but in fact they have been to a great extent de-individualized. Their conformity is developing into something like uniformity. But "uniformity and freedom are incompatible. Uniformity and mental health are incompatible too. . . . Man is not made to be an automaton, and if he becomes one, the basis for mental health is destroyed."
 
