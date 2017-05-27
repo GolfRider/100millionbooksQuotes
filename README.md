@@ -21,6 +21,13 @@ voices is on the other side. Else, to-morrow a stranger will say with masterly g
 what we have thought and felt all the time, and we shall be forced to take with shame our own opinion from another.
 
 
+### [When Breath Becomes Air] Paul Kalanithi, Abraham Verghese, 2016
+Don’t think I ever spent a minute of any day wondering why I did this work, or whether it was worth it. The call to protect life—and not merely life but another’s identity; it is perhaps not too much to say another’s soul—was obvious in its sacredness.
+
+Before operating on a patient’s brain, I realized, I must first understand his mind: his identity, his values, what makes his life worth living, and what devastation makes it reasonable to let that life end. The cost of my dedication to succeed was high, and the ineluctable failures brought me nearly unbearable guilt. Those burdens are what make medicine holy and wholly impossible: in taking up another’s cross, one must sometimes get crushed by the weight.
+
+
+
 ### [Rework] - Jason, DHH , 2010
 In the end, workaholics don't actually accomplish more than nonworkaholics. They may claim to be perfectionists, but that just means they're wasting time fixating on inconsequential details instead of moving on to the next task. 
 
